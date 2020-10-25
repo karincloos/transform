@@ -1,0 +1,11 @@
+.one,
+.two {
+    width: 10vw;
+    height: 10vw;
+    background-image: url(ghost.svg);
+    background-size: contain;
+    display: inline-block;
+    margin: 2vw;
+    border: 1px dashed;
+}
+.two {}
