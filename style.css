@@ -1,7 +1,7 @@
 .one,
 .two {
-    width: 10vw;
-    height: 10vw;
+    width: 20vw;
+    height: 20vw;
     background-image: url(ghost.svg);
     background-size: cover;
     display: inline-block;
