@@ -1,11 +1,13 @@
 .one,
 .two {
-    width: 20vw;
-    height: 20vw;
-    background-image: url(ghost.svg);
-    background-size: cover;
-    display: inline-block;
-    margin: 2vw;
-    border: 1px dashed;
+  width: 20%;
+  aspect-ratio: 1/1;
+  background-image: url(ghost.svg);
+  background-size: cover;
+  display: inline-block;
+  margin: 1%;
+  border: 1px dashed;
 }
-.two {}
+.two {
+  /* her skal du skrive koden */
+}
